@@ -1,0 +1,33 @@
+{
+  "id": "036e9137-2136-40ee-98ec-17eb3e425ecc",
+  "name": "DXC Improve Req. Worksheet",
+  "publisher": "DXC",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "appId": "3760f97a-1b1e-42f3-87b8-06a3bed75bcf",
+      "name": "DXC_PROJECT",
+      "publisher": "DXC",   
+      "version": "1.0.0.8"
+    }    
+  ],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "breakonerror" : true,
+  "runtime": "1.0"
+}
